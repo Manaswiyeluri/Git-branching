@@ -101,4 +101,9 @@ Then, the user switches back to the main branch and makes another commit there.
 
 Finally, the command git merge bugFix is used to merge the changes from the bugFix branch into the main branch. After merging, the main branch contains all commits from both branches, showing how Git combines work done in different branches into one complete history.
 
+# Introduction to Rebase
+
+What is Git Rebase
+Git rebase is the process of moving or replaying commits from one branch onto another branch, changing the base commit so the history becomes linear.
+
 
